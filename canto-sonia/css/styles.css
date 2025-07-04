@@ -1,0 +1,135 @@
+@charset "utf-8";
+
+* {
+  margin: 0;
+}
+
+body {
+  background-color: #dbb583;
+}
+
+.container {
+  text-align: center;
+}
+
+.transcricao {
+  color: #FFFFFF;
+  font-family: "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+  font-size: medium;
+  width: 80%;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px 20px 80px;
+}
+a, a:hover, a:active, a:visited { color: yellow; }
+
+
+.audioguia {
+  background-color: #FFBE1D;
+  padding: 20px;
+  font-family: "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+  font-weight: bolder;
+
+}
+
+.audioguia_link {
+  background-color: #FFBE1D;
+  font-family: "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+  font-weight: bolder;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 5px 30px 2px;
+
+}
+
+.audio {
+  display: flex;
+  flex-direction: column;
+  background-image: url(../../images/bg.png);
+  background-size: cover;
+  padding-top: 15px;
+  padding-bottom: 5px;
+  color: #FFFFFF;
+  font-family: "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+  font-size: small;
+}
+.cantos {
+  padding-top: 10px;
+}
+
+.audio_child {
+  display: inline-block;
+  margin-right: 7px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.margin {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.img_logo {
+  max-width: 100%;
+  height: auto;
+
+}
+
+.regua_logos {
+  max-width: 100%;
+  height: auto;
+  background-color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.player {
+  padding: 10px 0px 10px 3px;
+}
+
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+.audio-descricao {
+  display: grid;
+  grid-template-columns: auto;
+  background-color: #dbb583;
+  padding: 80px 200px;
+}
+
+@media screen and (max-width: 992px) {
+  .audio-descricao {
+    padding: 60px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .audio-descricao {
+    padding: 30px;
+  }
+}
+
+.texto-descricao {
+  background-color: #6b5434;
+  padding: 30px;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
+
+.inicio-texto{
+  padding-bottom: 20px;
+}
+
+.faixa-vermelha {
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+  font-size: 12px;
+  color: white;
+  background-color: #961a1c;
+  padding: 2rem 0;
+}
