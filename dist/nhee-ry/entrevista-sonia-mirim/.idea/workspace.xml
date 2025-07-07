@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8dd51ea5-b3b5-4270-9004-0489382d5177" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../canto-catarina/src/audio/CANTO-CATARINA.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-catarina/src/images/WhatsApp Image 2023-05-26 at 20.46.38.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-catarina/src/images/fundo-barro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-catarina/src/images/fundo-verde.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-catarina/src/images/logo-nheery-laranja.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-catarina/src/images/logo-nheery-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-catarina/src/images/logo-nheery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-cris/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-cris/.idea/canto-cris.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-cris/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-cris/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-cris/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-cris/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-cris/src/audio/CANTO-CRIS-TEKOA.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-irany-krenak/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-irany-krenak/.idea/canto-irany-krenak.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-irany-krenak/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-irany-krenak/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-irany-krenak/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-irany-krenak/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-irany-krenak/src/audio/CANTO-IRANY-KRENAK.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-irany/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-irany/.idea/canto-irany.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-irany/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-irany/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-irany/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-irany/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-lica-pataxo/.idea/canto-lica-pataxo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-lica-pataxo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-lica-pataxo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-lica-pataxo/src/audio/CANTO-LICA-PATAXO.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-papa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canto-papa/src/audio/CANTO CARLOS PAPA.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entrevista-carlos/.idea/entrevista-carlos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entrevista-catarina/.idea/entrevista-catarina.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entrevista-cris/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entrevista-cris/.idea/entrevista-cris.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entrevista-cris/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entrevista-cris/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entrevista-cris/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entrevista-cris/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entrevista-irani/.idea/entrevista-irani.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entrevista-lica/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entrevista-lica/.idea/entrevista-lica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entrevista-lica/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entrevista-lica/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entrevista-sandra/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entrevista-sandra/.idea/entrevista-sandra.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entrevista-sandra/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entrevista-sandra/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entrevista-sandra/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entrevista-sandra/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/entrevista-sonia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../canto-catarina/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../canto-catarina/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../canto-catarina/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../canto-catarina/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/MaurÃ­cio yanomami.m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/Terra firme.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/apresentacao_ygapo.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/audio-Brisa Flow - Fique Viva (Clipe Oficial).mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/audio-guia.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../canto-catarina/src/audio-guia.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/audio/CANTO CATARINA .mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/audio_MaurÃ­cio_yanomami.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/audio_MaurÃ­cio_yanomami2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/audio_MaurÃ­cio_yanomami3.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/audio_ficha_tecnica - Copia.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/audio_ficha_tecnica.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/audio_yanomami.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/audio_yanomami3.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/audiodescricao.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/audiodescricao5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/audiodescricao_5.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/em_desenvolvimento.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/images/IMG_7440.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/images/IMG_7475 - Copia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/images/IMG_7475.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/images/Logo-Ygapo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/images/VIDEOS_YGAPO1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/images/bg-agua.png" beforeDir="false" afterPath="$PROJECT_DIR$/../canto-catarina/src/images/bg-agua.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/images/bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/../canto-catarina/src/images/bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/images/logo_ygapo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/index - Copy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/texto-6andar.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/texto-curatorial.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/texto_abertura - Copy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/texto_abertura.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/texto_abertura_guarani.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/texto_apresentacao.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/texto_apresentacao.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/texto_curatorial copy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/texto_curatorial.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/texto_curatorial_guarani2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/texto_ficha_tecnica.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/texto_guarani.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-catarina/src/texto_yanomami.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-cris/audio/CANTO CRIS TEKOA.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-irany-krenak/audio/CANTO IRANY KRENAK 2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-irany/audio/CANTO IRANY KRENAK 1 .mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-lica-pataxo/audio/CANTO LIÇA PATAXO.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-papa/.idea/sonarlint/issuestore/f/6/f6013a00b362253c64368d6eebc50ea2131754e2" beforeDir="false" afterPath="$PROJECT_DIR$/../canto-papa/.idea/sonarlint/issuestore/f/6/f6013a00b362253c64368d6eebc50ea2131754e2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-papa/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../canto-papa/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-papa/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../canto-papa/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-papa/audio/CANTO CARLOS PAPA.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canto-papa/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../canto-papa/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2QRQB6GAzH1QAH6AWQChbOHr3ME" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/trabalhos/nheery/entrevista-sueli-maria-tekoa",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dd51ea5-b3b5-4270-9004-0489382d5177" name="Changes" comment="" />
+      <created>1685313775641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685313775641</updated>
+      <workItem from="1685313776935" duration="71000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
