@@ -5,21 +5,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-Security-Policy" content="frame-src https://www.youtube.com;">
     <title>Embedded YouTube Shorts</title>
+
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+        }
+
+        img, iframe {
+            max-width: 100%;
+            width: 100%;
+            height: auto;
+            display: block;
+            margin-bottom: 20px;
+        }
+
+        iframe {
+            aspect-ratio: 16 / 9;
+        }
+    </style>
 </head>
 <body>
     <h1>Ar Condicionado</h1>
-<h2>Para usar o ar condicionado é obrigatório manter a janela jateada do quarto do meio fechada, caso contrário ela tampará a saída de ar do compressor do lado de fora. </h2>
-    <img src="IMG_3501.jpeg" />
-    <img src="IMG_3502.jpeg" />
+    <h2>Para usar o ar condicionado é obrigatório manter a janela jateada (de correr) do quarto do meio fechada, caso contrário ela tampará a saída de ar do compressor do lado de fora.</h2>
 
-    <!-- Correct embed format for YouTube Shorts -->
-    <iframe width="560" height="315" 
+    <img src="IMG_3501.jpeg" alt="Foto 1 do ar condicionado" />
+    <img src="IMG_3502.jpeg" alt="Foto 2 do ar condicionado" />
+
+    <!-- Responsive YouTube embed -->
+    <iframe 
         src="https://www.youtube.com/embed/KwZE28H03iw" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
         allowfullscreen>
     </iframe>
-
-   
 </body>
 </html>
